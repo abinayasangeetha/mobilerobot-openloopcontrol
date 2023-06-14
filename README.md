@@ -8,16 +8,12 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
-### Step1:
-Import the required packages
-### Step2:
-Assign the value for X axis and Y axis 
-### Step3:
-write the program to move the Robot
-### Step4:
-Write the program to record video
-### Step5:
-Run the program to move the robot
+ Step1: Initiate the MobileRobot.  
+Step2: Connect your PC with the MobileRobot through Wi-Fi.  
+Step3: Open batter_level.py file and check the battery.  
+Step4: Open the other Python files and Program the movements of the robot using python.  
+Step5: Execute the python program and record the movements.  
+
 
 
 
@@ -102,16 +98,16 @@ ep_robot.close()
 
 
 ## MobileRobot Movement IMAGE:
-## INITIAL POSITION:
-![STARTING POINT](https://github.com/abinayasangeetha/mobilerobot-openloopcontrol/assets/119393675/22963d5c-1e81-456e-9469-a274d19c6e7d)
+
+![robo](./img/robomaster.png)
+
+![Screenshot (169)](https://github.com/abinayasangeetha/mobilerobot-openloopcontrol/assets/119393675/c56ab0fb-7bf6-41fe-8ca3-a1ea6d63ce7f)
 
 
-## FINAL POSITION:
-
-![ENDING POINT](https://github.com/abinayasangeetha/mobilerobot-openloopcontrol/assets/119393675/37031dc1-e19b-4921-a1fa-be5389d364bb)
 
 ## MobileRobot Movement Video:
-https://youtu.be/xkAumdRbGyU 
+
+## https://youtu.be/xkAumdRbGyU 
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
@@ -122,6 +118,8 @@ Thus the python program code is developed to move the mobilerobot in the predefi
 
 ```
 Mobile Robotics Laboratory
-Department of Artificial Intelligence and Data Science/ Machine Learning
+ABINAYA S
+212222230002
+Department of Artificial Intelligence and Data Science
 Saveetha Engineering College
 ```
