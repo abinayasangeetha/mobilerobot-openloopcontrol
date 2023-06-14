@@ -101,7 +101,8 @@ ep_robot.close()
 
 ![robo](./img/robomaster.png)
 
-![Screenshot (169)](https://github.com/abinayasangeetha/mobilerobot-openloopcontrol/assets/119393675/c56ab0fb-7bf6-41fe-8ca3-a1ea6d63ce7f)
+![Screenshot (169)](https://github.com/abinayasangeetha/mobilerobot-openloopcontrol/assets/119393675/1ec793a9-0d76-44a5-95cc-c318fba088b9)
+
 
 
 
