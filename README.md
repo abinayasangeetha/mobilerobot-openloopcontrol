@@ -7,7 +7,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 1. RoboMaster EP core
 2. Python 3.7
 
-## Procedure
+## Procedure:
  Step1: Initiate the MobileRobot.  
 Step2: Connect your PC with the MobileRobot through Wi-Fi.  
 Step3: Open batter_level.py file and check the battery.  
@@ -17,7 +17,7 @@ Step5: Execute the python program and record the movements.
 
 
 
-## Program
+## Program:
 ```
 #Developed by: ABINAYA S
 #Register number: 212222230002
@@ -108,7 +108,7 @@ ep_robot.close()
 
 ## MobileRobot Movement Video:
 
-## https://youtu.be/xkAumdRbGyU 
+https://youtu.be/xkAumdRbGyU 
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
